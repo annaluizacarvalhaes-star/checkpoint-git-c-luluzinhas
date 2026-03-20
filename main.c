@@ -5,6 +5,6 @@ int main(){
     printf("Olá Anna!");
     printf(" Olá Keth!");
     printf("Olá Samara!");
+    printf("Primeiro cp do grupo!");
     return 0;
 }
-
