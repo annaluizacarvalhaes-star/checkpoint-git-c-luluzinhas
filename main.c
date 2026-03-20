@@ -7,5 +7,6 @@ int main(){
     printf("Olá Samara!");
     printf("Primeiro cp do grupo!");
     printf("olá meninas");
+    printf("trabalho em grupo entre 4 meninas");
     return 0;
 }
