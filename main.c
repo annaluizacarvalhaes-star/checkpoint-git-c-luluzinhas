@@ -6,5 +6,6 @@ int main(){
     printf(" Olá Keth!");
     printf("Olá Samara!");
     printf("Primeiro cp do grupo!");
+    printf("olá meninas");
     return 0;
 }
