@@ -9,7 +9,7 @@ int main(){
     printf("olá meninas\n");
     printf("trabalho em grupo entre 4 meninas\n");
     printf("Olá Gabi\n");
-
+    printf("Clone do git\n");
     printf("Trabalho finalizado");
     return 0;
 }
