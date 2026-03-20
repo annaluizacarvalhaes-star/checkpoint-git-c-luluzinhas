@@ -5,10 +5,6 @@ int main(){
     printf("Olá Anna!");
     printf(" Olá Keth!");
     printf("Olá Samara!");
-    
-
-
-
     return 0;
 }
 
