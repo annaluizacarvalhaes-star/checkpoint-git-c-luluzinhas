@@ -2,12 +2,12 @@
 
 int main(){
     printf("Bem vindo ao grupo luluzinha\n");
-    printf("Olá Anna!");
-    printf(" Olá Keth!");
-    printf("Olá Samara!");
-    printf("Primeiro cp do grupo!");
-    printf("olá meninas");
-    printf("trabalho em grupo entre 4 meninas");
-    printf("Olá Gabi");
+    printf("Olá Anna!\n");
+    printf(" Olá Keth!\n");
+    printf("Olá Samara!\n");
+    printf("Primeiro cp do grupo!\n");
+    printf("olá meninas\n");
+    printf("trabalho em grupo entre 4 meninas\n");
+    printf("Olá Gabi\n");
     return 0;
 }
